@@ -1,6 +1,6 @@
 [![Manoj](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://your_link_here)
 <h1 align="center">Hi 👋, I'm Manoj Prasanna</h1>
-<h3 align="center">A passionate Full Stack Engineer From Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mana95&label=Profile%20views&color=0e75b6&style=flat" alt="mana95" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Mean and Mern**
 
-- 📄 Know about my experiences [I have 3+ work Experience in Software Development](I have 3+ work Experience in Software Development)
+- 📄 Know about my experiences(I have 3+ work Experience in Software Development)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mana95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mana95" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://stackoverflow.com/users/9509332/manoj-prasanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://stackoverflow.com/users/9509332/manoj-prasanna" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manoj-prasanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://stackoverflow.com/users/9509332/manoj-prasanna" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9509332/manoj-prasanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9509332/manoj-prasanna" height="30" width="40" /></a>
 </p>
 
